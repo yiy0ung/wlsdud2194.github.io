@@ -7,7 +7,7 @@ tags: JavaScript client cors server web
 categories: Web
 ---
 
-![thumbnail](https://media.vlpt.us/post-images/wlsdud2194/4c8474d0-ddbc-11e9-ad14-b92e1664ea25/cors.png)
+![](./images/thumbnail.png)
 
 이 포스트에서는 CORS에 대한 이슈에 대해서 다뤄볼려고 합니다.
 
@@ -20,7 +20,7 @@ CORS는 Cross Origin Resource Sharing의 약자로 **도메인** 또는 **포트
 이때 요청을 할때는 cross-origin HTTP 에 의해 요청됩니다.
 
 하지만 동일 출처 정책(same-origin policy) 때문에 CORS 같은 상황이 발생 하면 외부서버에 요청한 데이터를 브라우저에서 보안목적으로 차단합니다. 그로 인해 정상적으로 데이터를 받을 수 없습니다.
-![error](https://user-images.githubusercontent.com/38432821/52930297-3853d680-338b-11e9-91c8-d240d36cb87e.PNG)
+![error](./images/console-cors-error.png)
 
 > 동일 출처 정책(same-origin policy)
 > 불러온문서나 스크립트가 다른 출처에서 가져온 리소스와 상호작용하는 것을 제한하는 중요한 보안 방식입니다. 이것은 잠재적 악성 문서를 격리하여, 공격 경로를 줄이는데 도움이 됩니다.
