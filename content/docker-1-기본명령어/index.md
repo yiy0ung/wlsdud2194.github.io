@@ -1,5 +1,5 @@
 ---
-emoji: 🔮
+emoji: 🐳
 title: Docker 도커 - 1. 기본 명령어 모음
 date: '2019-09-24 00:00:00'
 author: Luther
@@ -38,25 +38,25 @@ $ sudo ln -sf /usr/bin/docker.io /usr/local/bin/docker
 
 Docker for windows, Docker for Mac 설치
 
-# 📜 이미지 관련
+## 📜 이미지 관련
 
 도커에서는 도커 이미지를 이용하여 컨테이너를 생성할 수 있는데,
 
 도커 이미지를 이용하면 이미지에 설정해둔 대로 컨테이너의 구성환경을 적용할 수 있습니다.
 
-### 이미지 목록 보기
+#### 이미지 목록 보기
 
 ```
 $ sudo docker images
 ```
 
-### 이미지 검색
+#### 이미지 검색
 
 ```
 $ sudo docker search [이미지 이름]
 ```
 
-### 이미지 받기
+#### 이미지 받기
 
 ```
 $ sudo docker pull [이미지 이름]:[버전]
@@ -64,7 +64,7 @@ $ sudo docker pull [이미지 이름]:[버전]
 
 버전: **latest** 를 쓰면 최신 버전으로 받을수 있다.
 
-### 이미지 삭제
+#### 이미지 삭제
 
 ```
 $ sudo docker rmi [이미지 id]
@@ -76,7 +76,7 @@ $ sudo docker rmi [이미지 id]
 $ sudo docker rmi -f [이미지 id]
 ```
 
-# 📦 컨테이너 관련
+## 📦 컨테이너 관련
 
 다양한 프로그램(nginx, database, WAS 등)을 컨테이너 라는 격리된 환경을 이용하여 실행시킬수 있습니다.
 
@@ -109,25 +109,25 @@ $ sudo docker run [options] image[:TAG|@DIGEST] [COMMAND] [ARG...]
 
 - ex) $ sudo docker run -i -t --name server ubuntu:latest /bin/bash
 
-### 컨테이너 시작
+#### 컨테이너 시작
 
 ```
 $ sudo docker start [컨테이너 id 또는 name]
 ```
 
-### 컨테이너 재시작
+#### 컨테이너 재시작
 
 ```
 $ sudo docker restart [컨테이너 id 또는 name]
 ```
 
-### 컨테이너 접속
+#### 컨테이너 접속
 
 ```
 $ sudo docker attach [컨테이너 id 또는 name]
 ```
 
-### 컨테이너 정지
+#### 컨테이너 정지
 
 ```
 $ sudo docker stop [컨테이너 id 또는 name]
@@ -137,7 +137,7 @@ $ sudo docker stop [컨테이너 id 또는 name]
 
 - `Ctrl + P`, `Ctrl + Q`를 차례대로 입력하여 컨테이너를 정지하지 않고, 컨테이너에서 빠져나온다.
 
-### 컨테이너 삭제
+#### 컨테이너 삭제
 
 ```
 $ sudo docker rm [컨테이너 id 또는 name]
@@ -148,7 +148,7 @@ $ sudo docker rm [컨테이너 id 또는 name]
 $ sudo docker rm `docker ps -a -q`
 ```
 
-## sudo 없이 Docker 명령어 쓰기
+#### sudo 없이 Docker 명령어 쓰기
 
 ```
 $ sudo usermod -aG docker $USER # 현재 접속중인 사용자에게 권한주기
@@ -161,3 +161,7 @@ $ sudo usermod -aG docker your-user # your-user 사용자에게 권한주기
 # 🤞 마치며...
 
 간단하게 도커와 관련된 기본 명령어에 대해 알아보았습니다. 하지만 평생 도스창에 도커 명령어를 칠 순 없기 때문에, 다음 글에서는 도커를 더욱 편리하게 사용해주는 **도커 gui툴**에 대해 포스팅 해보도록 하겠습니다.
+
+```toc
+
+```

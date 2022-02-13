@@ -3,7 +3,7 @@ module.exports = {
   description: `새로움을 찾는 neolog`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.neolog.dev`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  ogImage: `/og-img.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: `wlsdud2194/wlsdud2194.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
@@ -19,7 +19,7 @@ module.exports = {
     },
     social: {
       github: `https://github.com/wlsdud2194`, // `https://github.com/zoomKoding`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      linkedIn: `https://www.linkedin.com/in/wlsdud2194`, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
       email: `wlsdud2194@gmail.com`, // `zoomkoding@gmail.com`,
     },
   },
