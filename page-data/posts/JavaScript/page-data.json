@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/JavaScript",
+    "result": {"pageContext":{"currentCategory":"JavaScript","categories":["All","Life","JavaScript","Web","React","Docker"],"edges":[{"node":{"id":"a6d72564-877a-5d6e-bc18-9b7eea329506","excerpt":"자바스크립트를 통해 개발하다보면 가끔보게 되는 키워드가 있는 데, 바로 라는 녀셕입니다. “this? 대충 이렇게 작동하는 녀석아닌가??” 하고 지나칠 수 있지만, 정확히 알고 적절하게 활용한다면 더욱 깔끔하고 디버깅이 편한 코드를 작성할 수 있을 것입니다. 일단 this를 찍어보자 키를 눌러 console에서 를 한번 찍어봅시다. 그러면 아래와 같은 값이 나올 것 입니다. 네, Window 객체가 나옵니다. Window 객체는 일반적으로 브라우저의 요소와 자바스크립트 엔진과 관련된 모든 정보를 포함하고 있는 객체입니다. 하지만 단순히  =  라면, 이 글을 쓰지 않았겠죠? 문법에 따라 this가 바뀐다? 전에 커뮤니티에 이런 글이 하나 올라왔었습니다. Q .  과  (화살표 함수)의 차이점이 무엇인가요? A : “this가 달라요”\r\nB : “function은 this를 가지고, 화살표함수는 this를 가지지 않아요” 틀린 답변은 아니지만, 정확히 어떻게 가 다르다는 걸까요? 입…","fields":{"slug":"/researching-js-1-this/"},"frontmatter":{"categories":"JavaScript","title":"어중간히 알면 안되는 JS 개념 1. this","date":"August 31, 2020"}},"next":{"fields":{"slug":"/Dependency-Injection이란-무엇일까/"}},"previous":{"fields":{"slug":"/책임감을-일깨워준-2020/"}}}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}

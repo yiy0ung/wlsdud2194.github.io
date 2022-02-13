@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/Docker",
+    "result": {"pageContext":{"currentCategory":"Docker","categories":["All","Life","JavaScript","Web","React","Docker"],"edges":[{"node":{"id":"0df66811-e817-51fa-a140-0fe018ec690b","excerpt":"도커란 간단하게 말해 서버환경에서의 다양한 프로그램, 실행환경을 컨테이너라는 격리된 환경에서 실행할 수 있게 해주는 컨테이너 기반의 오픈소스 가상화 플랫폼 입니다. 이를 이용하면 복잡한 서버환경을 코드로 쉽게 관리할 수 있고 안정적인 배포환경 (무중단 배포 등) 구성할 수 있습니다. 그래서 이번 글에서는 도커에서 이미지를 받고 컨테이너를 생성하고 삭제 할 때, 자주쓰는 기본 명령어를 알아보려 합니다 :) docker 설치 리눅스 자동 설치 스크립트 우분투 윈도우, 맥 Docker for windows, Docker for Mac 설치 📜 이미지 관련 도커에서는 도커 이미지를 이용하여 컨테이너를 생성할 수 있는데, 도커 이미지를 이용하면 이미지에 설정해둔 대로 컨테이너의 구성환경을 적용할 수 있습니다. 이미지 목록 보기 이미지 검색 이미지 받기 버전: latest 를 쓰면 최신 버전으로 받을수 있다. 이미지 삭제 컨테이너를 삭제하기 전에 이미지를 삭제 할때, -f 옵션을 붙어면 컨테…","fields":{"slug":"/docker-1-기본명령어/"},"frontmatter":{"categories":"Docker","title":"Docker 도커 - 1. 기본 명령어 모음","date":"September 24, 2019"}},"next":{"fields":{"slug":"/cors에-대한-간단한-고찰/"}},"previous":{"fields":{"slug":"/Mobx-데코레이터-yarn-eject-없이-사용하기/"}}}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
