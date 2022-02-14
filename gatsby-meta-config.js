@@ -9,7 +9,7 @@ module.exports = {
       repo: `wlsdud2194/wlsdud2194.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
-  ga: 'G-94Q5CYRWBY', // Google Analytics Tracking ID
+  ga: 'G-NCP4WF7BRQ', // Google Analytics Tracking ID
   author: {
     name: `이진영`,
     bio: {
