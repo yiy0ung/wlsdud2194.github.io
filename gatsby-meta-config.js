@@ -43,7 +43,16 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2020.8 ~',
+        date: '2022.03 ~',
+        activity: 'Classum, Tech chapter',
+        links: {
+          github: 'https://www.classum.com',
+          post: '',
+          demo: '',
+        },
+      },
+      {
+        date: '2020.08 ~ 2022.02',
         activity: 'Archidraw, R&D 개발팀',
         links: {
           post: 'https://www.archisketch.com',
