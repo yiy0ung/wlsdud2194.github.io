@@ -46,8 +46,8 @@ module.exports = {
         date: '2022.03 ~',
         activity: 'Classum, Tech chapter',
         links: {
-          github: 'https://www.classum.com',
-          post: '',
+          post: 'https://www.classum.com',
+          github: '',
           demo: '',
         },
       },
