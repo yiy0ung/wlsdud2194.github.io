@@ -1,6 +1,6 @@
 ---
 emoji: ✍🏻
-title: 'Daily Review'를 쓰는 이유
+title: Daily Review를 쓰는 이유
 date: '2022-08-06 00:00:00'
 author: JY Lee
 tags: daily_review 데일리_리뷰
