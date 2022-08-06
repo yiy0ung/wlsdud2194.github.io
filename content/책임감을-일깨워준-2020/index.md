@@ -2,7 +2,7 @@
 emoji: 🙋‍♂️
 title: 책임감을 일깨워준 2020
 date: '2020-12-31 00:00:00'
-author: Luther
+author: JY Lee
 tags: 2020회고 책임감 코로나19 회고
 categories: Life
 ---

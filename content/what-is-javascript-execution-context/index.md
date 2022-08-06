@@ -2,7 +2,7 @@
 emoji: 🔪🪨
 title: JavaScript 실행 컨텍스트란
 date: '2021-08-15 00:00:00'
-author: Luther
+author: JY Lee
 tags: JavaScript execution_context
 categories: JavaScript
 ---

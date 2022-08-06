@@ -2,7 +2,7 @@
 emoji: 🏃
 title: 함께하는 의미를 알려준 2019
 date: '2019-12-31 00:00:00'
-author: Luther
+author: JY Lee
 tags: 2019회고 개발자 팀장 회고
 categories: Life
 ---

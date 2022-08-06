@@ -2,7 +2,7 @@
 emoji: 🤔
 title: CORS에 대한 간단한 고찰
 date: '2019-09-23 00:00:00'
-author: Luther
+author: JY Lee
 tags: JavaScript client cors server web
 categories: Web
 ---

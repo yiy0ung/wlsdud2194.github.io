@@ -2,7 +2,7 @@
 emoji: 🐳
 title: Docker 도커 - 1. 기본 명령어 모음
 date: '2019-09-24 00:00:00'
-author: Luther
+author: JY Lee
 tags: docker
 categories: Docker
 ---

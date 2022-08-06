@@ -2,7 +2,7 @@
 emoji: 🏃
 title: 어중간히 알면 안되는 JS 개념 - "this"
 date: '2020-08-31 00:00:00'
-author: Luther
+author: JY Lee
 tags: JavaScript execution context this
 categories: JavaScript
 ---

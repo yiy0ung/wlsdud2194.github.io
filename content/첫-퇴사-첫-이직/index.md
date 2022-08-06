@@ -2,7 +2,7 @@
 emoji: 🎫
 title: 첫 퇴사, 첫 이직
 date: '2022-03-08 00:00:00'
-author: Luther
+author: JY Lee
 tags: 퇴사 부검 이직
 categories: Life
 ---

@@ -2,7 +2,7 @@
 emoji: 🔮
 title: How to use TypeScript
 date: '2019-10-28 12:00:00'
-author: Luther
+author: JY Lee
 tags: JavaScript React TypeScript web
 categories: Web
 ---

@@ -2,7 +2,7 @@
 emoji: 💉
 title: Dependency Injection이란 무엇일까?
 date: '2020-02-25 00:00:00'
-author: Luther
+author: JY Lee
 tags: dependency-injection di 의존성-주입
 categories: Web
 ---

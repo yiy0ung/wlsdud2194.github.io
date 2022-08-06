@@ -2,7 +2,7 @@
 emoji: ⚛️
 title: React - eject 없이 Mobx 데코레이터 사용하기
 date: '2019-10-27 00:00:00'
-author: Luther
+author: JY Lee
 tags: JavaScript React State decorator eject mobx
 categories: React
 ---

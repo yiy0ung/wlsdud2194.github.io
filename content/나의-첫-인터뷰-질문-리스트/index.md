@@ -2,7 +2,7 @@
 emoji: 💬
 title: 나의 첫 인터뷰 질문 리스트
 date: '2019-12-22 00:00:00'
-author: Luther
+author: JY Lee
 tags: JavaScript caching http web 면접
 categories: Web
 ---

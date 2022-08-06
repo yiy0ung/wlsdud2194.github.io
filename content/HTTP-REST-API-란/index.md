@@ -2,7 +2,7 @@
 emoji: 🖥️
 title: REST API 란
 date: '2019-10-28 00:00:00'
-author: Luther
+author: JY Lee
 tags: REST API client http server web
 categories: Web
 ---

@@ -2,7 +2,7 @@
 emoji: 📚
 title: Storybook 작성하기
 date: '2019-11-14 00:00:00'
-author: Luther
+author: JY Lee
 tags: JavaScript React react-unit-test storybook unit testing
 categories: React
 ---

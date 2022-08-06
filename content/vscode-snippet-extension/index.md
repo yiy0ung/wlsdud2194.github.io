@@ -2,7 +2,7 @@
 emoji: 🛠️
 title: VSCode 주석 스니핏을 만들어보자
 date: '2022-02-23 00:00:00'
-author: Luther
+author: JY Lee
 tags: VSCode snippet extension comment
 categories: Etc
 ---
